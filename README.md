@@ -11,17 +11,18 @@ The workflow covers data loading, cleaning, exploratory data analysis, SQL analy
 
 
 Capstone_Project/
-│
-├── Capstone Customers.csv
-├── Capstone Orders.csv
-├── Capstone Project.py
-├── numpy.py
-├── pandas.py
-├── excel.xlsx
-├── CapstoneProject.sql
-├── CapstoneprojectBII.pbix
-├── Capstone_Business_Insights_Report
-└── README.md
+
+Capstone Customers.csv
+Capstone Orders.csv
+Capstone Project.py
+ -python.py
+ -numpy.py
+ -pandas.py
+excel.xlsx
+CapstoneProject.sql
+CapstoneprojectBII.pbix
+Capstone_Business_Insights_Report
+README.md
 
 
 # Technologies Used
@@ -54,21 +55,14 @@ Place the following files inside the project folder.
 
 # Setup Steps
 
-## Step 1
-
-Install Python dependencies.
+1.Install Python dependencies.
 
 pip install pandas numpy matplotlib seaborn
 
 
-## Step 2
+2.Open the project folder in Visual Studio Code.
 
-Open the project folder in Visual Studio Code.
-
-
-## Step 3
-
-Verify the CSV files are in the same folder as the Python scripts.
+3.Verify the CSV files are in the same folder as the Python scripts.
 
 Capstone Customers.csv
 Capstone Orders.csv
